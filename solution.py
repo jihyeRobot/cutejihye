@@ -7,7 +7,7 @@ def solution(array, commands):
     array=[list(map(int, input().split())) for_in range(n)]
     
     for i in range(100):
-    if:
+    if array[0] < 0:
             
     answer = []
     return answer
